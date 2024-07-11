@@ -1,4 +1,11 @@
 
+🚀 Tecnologias utilizadas
+* Java 21
+* Spring Boot
+* Spring Data MongoDB
+* RabbitMQ
+* Docker
+
 ![estrutura.png](src%2Fmain%2Fresources%2Fimg%2Festrutura.png)
 
 Exemplo da mensagem que deve ser consumida:
